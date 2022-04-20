@@ -8,3 +8,5 @@
 
 
 <script src = "scriptfile.js"></script> <!-- it helps to apply expernal js code to our current document-->
+
+<link rel = "stylesheet" href = "stylefile.css"> <!-- rel represents the information about the redirecting website  it generally present href is present-->
