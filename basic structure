@@ -1,1 +1,10 @@
-
+<!DOCTYPE html> <!-- it tells which type of document it is  -->
+<html>
+    <head>
+                     <!-- it has information about the web page and it load first then after goes to body tag -->
+                     <!-- so this is the reason we first give basic information here -->
+    </head>
+    <body>
+                      <!-- it helps to express content of the web page -->
+    </body>
+</html>
