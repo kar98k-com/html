@@ -10,3 +10,29 @@
 <script src = "scriptfile.js"></script> <!-- it helps to apply expernal js code to our current document-->
 
 <link rel = "stylesheet" href = "stylefile.css"> <!-- rel represents the information about the redirecting website  it generally present href is present-->
+
+
+form tag
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            login page
+        </title>
+    </head>
+    <body>
+        <form action="result.html"   method="GET">
+            <div>
+
+                <label >enter username</label>
+                <input name="user">
+            </div>
+            <div>
+                <label>enter password</label>
+                <input name="pass">
+            </div>
+             <button>submit</button>
+        </form>
+    </body>
+</html>
