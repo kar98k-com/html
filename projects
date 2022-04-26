@@ -1,0 +1,32 @@
+tasty-foods
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Taste Tiffins
+    </title>
+</head>
+<header>
+    <h  style="margin-left: 35%;margin: bottom 20%;"> Let us have some good tasty foods  </h>
+    <hr>
+</header>
+<body style="background-color: blue;">
+<dic>
+    <img src="Idli-Sambar - Copy.jpg" alt="idli" height="500" width="500" style="margin-left: 30%; ">  
+    <p style="margin-left: 30%;">
+        it is most favorate food to so many peoples in andhra pradesh 
+    </p>
+</dic>
+
+<div>
+    <img  src="maxresdefault - Copy.jpg" alt="dosa"   height="500" width="500" style="margin-left: 30%;"> 
+    <p  style="margin-left: 30%;">it all time favorate to all in peoples in the world</p>
+</div>
+
+<div>
+    <img src="images.jpg" alt="puri" height="500" width="500"  style="margin-left: 30%;">  
+    <p   style="margin-left: 30%;">it is the most loved food </p>
+</div>
+</body>
+</html>
